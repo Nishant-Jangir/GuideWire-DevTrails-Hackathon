@@ -36,8 +36,7 @@ We're calling it GigShield.
 13. [How the app flows](#how-the-app-flows)
 14. [What we're building when](#what-were-building-when)
 15. [Why we think this holds up](#why-we-think-this-holds-up)
-16. [Team](#team)
-17. [Repo structure](#repo-structure)
+16. [Repo structure](#repo-structure)
 
 \---
 
